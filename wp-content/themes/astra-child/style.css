@@ -12,42 +12,42 @@ Template: astra
 
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Regular.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Bold.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Black.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Black.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Medium.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Light.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Thin.woff2') format('woff2');
+    src: url('https://cdn.jsdelivr.net/gh/rastikerdar/vazir-font@v30.1.0/dist/Vazir-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
