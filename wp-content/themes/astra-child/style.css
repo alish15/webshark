@@ -12,46 +12,26 @@ Template: astra
 
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Regular.woff') format('woff');
+    src: url('https://fontiran.com/wp-content/plugins/fontiran-manager/css/fonts/woff/iranyekanwebregular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Bold.woff') format('woff');
+    src: url('https://fontiran.com/wp-content/plugins/fontiran-manager/css/fonts/woff/iranyekanwebbold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Black.woff') format('woff');
-    font-weight: 900;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Light.woff') format('woff');
+    src: url('https://fontiran.com/wp-content/plugins/fontiran-manager/css/fonts/woff/iranyekanweblight.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
-@font-face {
-    font-family: Vazir;
-    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
-}
+
 
 body, button, input, select, textarea, .ast-button, .ast-custom-button,h1, .entry-content h1, h2, .entry-content h2, h3, .entry-content h3, h4, .entry-content h4, h5, .entry-content h5, h6, .entry-content h6,b, strong {
 	font-family:Vazir !important;
