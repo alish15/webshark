@@ -3,7 +3,7 @@ Theme Name: Astra Child
 Author: Brainstorm Force
 Author URI: http://wpastra.com/about/
 Description: Astra is the fastest, fully customizable & beautiful theme suitable for blogs, personal portfolios and business websites.
-Version: 1.0.0
+Version: 1.0.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: astra-child
@@ -12,42 +12,42 @@ Template: astra
 
 @font-face {
     font-family: Vazir;
-    src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Regular.woff2') format('woff2');
+    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Bold.woff2') format('woff2');
+    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Bold.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Black.woff2') format('woff2');
+    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Black.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Medium.woff2') format('woff2');
+    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Medium.woff2') format('woff2');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Light.woff2') format('woff2');
+    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Light.woff2') format('woff2');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: Vazir;
-    src: url('https://github.com/rastikerdar/vazir-font/raw/master/dist/Vazir-Thin.woff2') format('woff2');
+    src: url('https://webshark.ir/wp-content/themes/astra-child/fonts/Vazir-Thin.woff2') format('woff2');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
